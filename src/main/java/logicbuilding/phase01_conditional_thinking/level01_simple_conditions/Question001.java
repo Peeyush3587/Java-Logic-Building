@@ -1,5 +1,4 @@
 // Question: Take a number and print whether it's positive, negative, or zero.
-
 package logicbuilding.phase01_conditional_thinking.level01_simple_conditions;
 
 import java.util.*;
@@ -21,8 +20,10 @@ public class Question001 {
 }
 
 /*
- * Explanation:
- * The value stored in `number` is the input that the conditions or loops work on.
- * The if/else checks test the important cases in order: `number > 0`, `number < 0`.
- * Only the branch whose condition becomes true prints its message.
- */
+My Approach:
+Check whether the number is greater than 0.
+num > 0 → Positive.
+num < 0 → Negative.
+Otherwise → Zero.
+Use if-else if-else to handle all three cases.
+*/
