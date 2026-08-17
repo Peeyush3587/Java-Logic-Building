@@ -51,6 +51,7 @@ A structured collection of Java problems focused on improving **logical thinking
    - Applied Logical Problems
 
 ## Repository Structure
+```text
 Java-Logic-Building/
 │
 ├── README.md
